@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexTheFrontend
 - 👀 I’m interested in Frontend web-development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning SvelteKit
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me - fedlogic@gmail.com
 
